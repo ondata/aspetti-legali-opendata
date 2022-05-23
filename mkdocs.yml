@@ -1,6 +1,6 @@
 site_name: Aspetti legali degli open data. La guida definitiva
 site_url:  https://ondata.github.io/aspetti-legali-opendata
-site_description: Un progetto di Simone Aliprandi, per la campagna %23datiBeneComune
+site_description: "Un progetto di Simone Aliprandi, per la campagna #datiBeneComune"
 
 
 repo_url: https://github.com/ondata/aspetti-legali-opendata
@@ -56,7 +56,7 @@ nav:
       - Il riutilizzo di dati e documenti delle pubbliche amministrazioni: il-riutilizzo-di-dati-e-documenti-delle-pubbliche-amministrazioni.md
     - Approfondire: approfondire.md
     - L'autore: autore.md
-    - datiBeneComune: https://www.datibenecomune.it/
+    - "#datiBeneComune": https://www.datibenecomune.it/
 
 extra:
  social:
