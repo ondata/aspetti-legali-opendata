@@ -1,0 +1,70 @@
+/* colore righe pari */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* colore background intestazione tabella */
+div.md-typeset__table thead {
+  c
+}
+
+
+/* font per le tabelle */
+
+div.md-typeset__table td {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* colore background intestazione tabella */
+div.md-typeset__table thead {
+  background-color: #b6c1ff;
+}
+
+/* stili per tabelle esempio */
+
+.arancione {
+  background-color: #b6c1ff !important;
+}
+
+.arancione_grassetto td {
+  background-color: #b6c1ff !important;
+  font-weight: 700 !important;
+  min-width: 5rem;
+  padding: 0.9375em 1.25em;
+  vertical-align: top;
+}
+
+.tabella {
+  table-layout: fixed;
+  width: 100%;
+  word-break: break-word;
+  word-wrap: break-word;
+}
+
+table[class="tabella"]  td{
+  padding: 0.9375em 1.25em;
+  border: .05rem solid var(--md-typeset-table-color);
+  padding: 0.9375em 1.25em;
+  border: .05rem solid var(--md-typeset-table-color);
+  font-family: 'Open Sans', sans-serif;
+  /* border-radius: 0.1rem; */
+  /* display: inline-block; */
+  font-size: .64rem;
+  max-width: 100%;
+  overflow: auto;
+  touch-action: auto;
+}
+
+.spunta_verde {
+  color: #46cc12;
+}
+
+.croce_rossa {
+  color: #cc1221;
+}
+
+article h1,h2,h3 {
+  font-weight: bold !important;
+  color: #525252 !important;
+}
+

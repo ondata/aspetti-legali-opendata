@@ -1,0 +1,114 @@
+site_name: Aspetti legali degli open data. La guida definitiva
+site_url:  https://ondata.github.io/aspetti-legali-opendata/
+site_description: Un progetto di Simone Aliprandi, per la campagna \#datiBeneComune
+
+
+repo_url: https://github.com/ondata/aspetti-legali-opendata
+repo_name: aspetti-legali-opendata
+edit_uri: edit/main/docs/
+
+copyright: 'Un progetto di <a href="https://aliprandi.org/" target="_blank">Simone Aliprandi</a> per <a href="https://www.ondata.it/" target="_blank">onData</a>| licenza <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">CC BY 4.0</a>'
+
+theme:
+  name: material
+  icon:
+    logo: material/book-open
+  highlightjs: true
+  custom_dir: overrides
+#  favicon: imgs/favicon.ico
+  palette:
+    primary: pink
+#      primary: deep purple
+#      accent: orange
+#      toggle:
+#        icon: material/weather-night
+#        name: Modalità notte
+#    - scheme: slate
+#      primary: deep purple
+#      accent: orange
+#      toggle:
+#        icon: material/weather-sunny
+#        name: Modalità giorno
+  language: it
+  features:
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+  font:
+    text: Montserrat
+    #code: Cutive Mono
+    code: Fira Code
+
+
+nav:
+    - Home: index.md
+    - Guida:
+      - Open data e diritto: opendata-diritto.md
+      - Dati in che senso?: dati-in-che-senso.md
+      - La proprietà intellettuale sui dati?: la-proprietà-intellettuale-sui-dati.md
+      - Le licenze per dati aperti: le-licenze-per-dati-aperti.md
+      - Il riutilizzo di dati e documenti delle pubbliche amministrazioni: il-riutilizzo-di-dati-e-documenti-delle-pubbliche-amministrazioni.md
+    - Approfondire: approfondire.md
+    - L'autore: autore.md
+
+extra:
+ social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ondatait
+      name: onData su Twitter
+
+# foglio di stile personalizzato
+extra_css:
+  - stylesheets/style.css
+
+plugins:
+  - search:
+      lang: it
+  - mkdocstrings
+
+
+extra_javascript:
+#  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+#  - javascripts/tables.js
+  - javascripts/varie.js
+
+markdown_extensions:
+- admonition
+- md_in_html
+- attr_list
+- footnotes
+- meta
+- mkdocs-click
+- pymdownx.keys
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.critic:
+      mode: view
+- pymdownx.details
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+- pymdownx.highlight
+- pymdownx.mark
+- pymdownx.smartsymbols
+- pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.tabbed
+- pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+- pymdownx.tilde
+- toc:
+      permalink: true
+      toc_depth: 3
+

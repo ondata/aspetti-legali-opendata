@@ -1,0 +1,4 @@
+tmp*
+.~lock*
+run_docker.sh
+tmp/*

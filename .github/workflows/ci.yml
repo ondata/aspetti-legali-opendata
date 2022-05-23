@@ -1,0 +1,22 @@
+name: ci
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - 'overrides/**'
+      - 'mkdocs.yml'
+      - '.github/workflows/ci.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install markupsafe==2.0.1 mkdocs-material markdown mkdocstrings mkdocs-rss-plugin  mkdocs-click
+      - run: mkdocs gh-deploy --force
