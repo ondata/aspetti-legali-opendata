@@ -1,6 +1,6 @@
-# Aspetti legali degli open data, la guida definitiva
+# Aspetti legali degli open data: la guida definitiva
 
-Un'introduzione semplice e chiara su **_copyright_**, **_privacy_**, **licenze** e **normativa** di riferimento, a cura di [**Simone Aliprandi**](https://ondata.github.io/aspetti-legali-opendata/autore/).
+Un'introduzione semplice e chiara su **_copyright_**, **_privacy_**, **licenze** e **normativa** di riferimento, di [**Simone Aliprandi**](https://ondata.github.io/aspetti-legali-opendata/autore/).
 
 Un progetto realizzato per l'[associazione **onData**](https://www.ondata.it/), nell'ambito della [campagna **#datiBeneComune**](https://www.datibenecomune.it/).
 

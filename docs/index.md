@@ -5,9 +5,9 @@ hide:
  - navigation
 ---
 
-# Aspetti legali degli open data, la guida definitiva
+# Aspetti legali degli open data: la guida definitiva
 
-Un'introduzione semplice e chiara su ***copyright***, ***privacy***, **licenze** e **normativa** di riferimento, a cura di [**Simone Aliprandi**](autore.md).
+Un'introduzione semplice e chiara su ***copyright***, ***privacy***, **licenze** e **normativa** di riferimento, di [**Simone Aliprandi**](autore.md).
 
 Un progetto realizzato per l'[associazione **onData**](https://www.ondata.it/), nell'ambito della [campagna **#datiBeneComune**](https://www.datibenecomune.it/).
 
