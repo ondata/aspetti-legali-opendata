@@ -46,7 +46,7 @@ Come è noto, documenti come le linee guida non rappresentano norme cogenti ma p
 
 ## Il cosiddetto "open by default" (art. 52 CAD)
 
-Il cosiddetto Decreto Crescita 2.0, convertito poi nella Legge 221/2012, ha introdotto all'articolo 52 del Codice Amministrazione Digitale quello che viene di solito definito "principio open by default sui dati e sui documenti della pubblica amministrazione". Al comma 2 della norma (intitolata "Accesso telematico e riutilizzo dei dati") si legge:
+Il cosiddetto Decreto Crescita 2.0, convertito poi nella Legge 221/2012, ha introdotto all'[articolo 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82!vig~art52) del Codice Amministrazione Digitale quello che viene di solito definito "principio open by default sui dati e sui documenti della pubblica amministrazione". Al comma 2 della norma (intitolata "Accesso telematico e riutilizzo dei dati") si legge:
 
 > *«I dati e i documenti che \[le pubbliche amministrazioni\] pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza \[...\] si intendono rilasciati come dati di tipo aperto \[...\], ad eccezione dei casi in cui la pubblicazione riguardi dati personali.»*
 
