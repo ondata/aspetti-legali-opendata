@@ -15,20 +15,8 @@ theme:
     logo: material/book-open
   highlightjs: true
   custom_dir: overrides
-#  favicon: imgs/favicon.ico
   palette:
     primary: pink
-#      primary: deep purple
-#      accent: orange
-#      toggle:
-#        icon: material/weather-night
-#        name: Modalità notte
-#    - scheme: slate
-#      primary: deep purple
-#      accent: orange
-#      toggle:
-#        icon: material/weather-sunny
-#        name: Modalità giorno
   language: it
   features:
     - content.code.annotate
@@ -75,8 +63,6 @@ plugins:
 
 
 extra_javascript:
-#  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-#  - javascripts/tables.js
   - javascripts/varie.js
 
 markdown_extensions:
