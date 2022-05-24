@@ -38,7 +38,7 @@ A rigor di buon senso, quindi, su questi dati le restrizioni di proprietà intel
 
 ## La licenza suggerita dalla linee guida AGID
 
-Le linee guida italiane in materia di open data pubblici (Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico), chiamate a fornire un'indicazione tra le varie opzioni, esprimono nell'Azione n. 12 un'esplicita preferenza per la licenza Creative Commons Attribution 4.0 International. Si legge infatti:
+Le linee guida italiane in materia di open data pubblici ([Linee guida nazionali per la valorizzazione del patrimonio informativo pubblico](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html)), chiamate a fornire un'indicazione tra le varie opzioni, esprimono [nell'Azione n. 12](https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/licenzecosti.html) un'esplicita preferenza per la licenza Creative Commons Attribution 4.0 International. Si legge infatti:
 
 > *«Si ritiene opportuno fare riferimento ad una licenza unica aperta, che garantisca libertà di riutilizzo, che sia internazionalmente riconosciuta e che consenta di attribuire la paternità dei dataset (attribuire la fonte). Pertanto, si suggerisce l'adozione generalizzata della licenza CC BY nella sua versione 4.0, presupponendo altresì l'attribuzione automatica di tale licenza nel caso di applicazione del principio "Open Data by default", espresso nelle disposizioni contenute nell'articolo 52 del CAD.»*
 
