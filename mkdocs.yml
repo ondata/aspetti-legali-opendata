@@ -51,6 +51,9 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ondatait
       name: onData su Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/ondata/aspetti-legali-opendata
+      name: Il repository di questa guida
 
 # foglio di stile personalizzato
 extra_css:
